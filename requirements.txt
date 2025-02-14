@@ -1,0 +1,6 @@
+Flask>=3.0.0
+flask-cors
+pyngrok
+graphene>=3.4.3
+graphql-server[flask]
+PyJWT
